@@ -15,24 +15,24 @@ firstItem.textContent = ingredients[0];
 firstItem.classList.add('item');
 
 const secondItem = document.createElement('li');
-firstItem.textContent = ingredients[1];
-firstItem.classList.add('item');
+secondItem.textContent = ingredients[1];
+secondItem.classList.add('item');
 
 const thirdItem = document.createElement('li');
-firstItem.textContent = ingredients[2];
-firstItem.classList.add('item');
+thirdItem.textContent = ingredients[2];
+thirdItem.classList.add('item');
 
 const fourthItem = document.createElement('li');
-firstItem.textContent = ingredients[3];
-firstItem.classList.add('item');
+fourthItem.textContent = ingredients[3];
+fourthItem.classList.add('item');
 
 const fifthItem = document.createElement('li');
-firstItem.textContent = ingredients[4];
-firstItem.classList.add('item');
+fifthItem.textContent = ingredients[4];
+fifthItem.classList.add('item');
 
 const sixthItem = document.createElement('li');
-firstItem.textContent = ingredients[5];
-firstItem.classList.add('item');
+sixthItem.textContent = ingredients[5];
+sixthItem.classList.add('item');
 
 listIngredients.append(
   firstItem,
