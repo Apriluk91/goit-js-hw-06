@@ -1,1 +1,1 @@
-# goit-js-hw-06
+https://apriluk91.github.io/goit-js-hw-06/
